@@ -115,7 +115,7 @@ class App extends Component {
               Submit
             </Button>
           </Form>
-          <div class = "vertical"></div>
+          <div className = "vertical"></div>
           <Form className='Fetch'>
             <fieldset disabled>
               <Form.Group className="mb-3">
